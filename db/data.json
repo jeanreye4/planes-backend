@@ -1,0 +1,56 @@
+[
+  {
+    "plane": "cessna 150",
+    "type of plane": "single engine plane",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cessna_150M_%28cropped%29.jpg",
+    "price": "24,500 - 78,900" ,
+    "miles it can fly" : "350 miles",
+    "type" : "civilian"
+  },
+  {
+    "plane": "cessna 172",
+    "type of plane" :"single engine plane",
+    "img" : "https://images.flyingmag.com/flyingma/wp-content/uploads/2021/08/30205207/FLY0212_Skyhawk2-1.jpg",
+    "price" : "105,017" , 
+    "miles it can fly" : "675",
+    "type" : "civilian"
+  },
+  {
+    "plane": "cessna 182",
+    "type of plane" :"single engine plane",
+    "img" : "https://aerocorner.com/wp-content/uploads/2009/01/Cessna-182-Turbo-Skylane-Julio-Ce%CC%81sar-Rodri%CC%81guez-1090x500.jpg", 
+    "price": "104,000",
+    "miles it can fly" : "1,050",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "arado 234",
+    "type of plane" : "twin engine", 
+    "img" : "https://warfarehistorynetwork.com/wp-content/uploads/2016/09/Erichs-Ar-234-over-Normandy.jpg",
+    "price" : "not for sale", 
+    "miles it can fly" : "967",
+    "type" : "military"
+  },
+  {
+    "plane" : "Bell YFM-1 Airacuda", 
+    "type of plane" :"twin engine", 
+    "img" : "single engine", 
+    "price" :"not for sale", 
+    "miles it can fly" : "1670",
+    "type" : "military"
+  },
+  {
+    "plane" : "dornier do 335",
+    "type of plane" :"twin engine",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dornier_Pfeil2.jpg" , 
+    "price" :"not for sale", 
+    "miles it can fly" : "720",
+    "type" :"military"
+  },
+  {
+    "plane" : "airspeed ambassador",
+    "type of plane" :"twin engine",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ambassador.arp.750pix.jpg",
+    "price" : ""
+  }
+]
