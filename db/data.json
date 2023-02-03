@@ -3,7 +3,7 @@
     "plane": "cessna 150",
     "type of plane": "single engine plane",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cessna_150M_%28cropped%29.jpg",
-    "price": "24,500 - 78,900" ,
+    "price": "24,500 - 78,900 thousand" ,
     "miles it can fly" : "350 miles",
     "type" : "civilian"
   },
@@ -11,7 +11,7 @@
     "plane": "cessna 172",
     "type of plane" :"single engine plane",
     "img" : "https://images.flyingmag.com/flyingma/wp-content/uploads/2021/08/30205207/FLY0212_Skyhawk2-1.jpg",
-    "price" : "105,017" , 
+    "price" : "105,017 thousand" , 
     "miles it can fly" : "675",
     "type" : "civilian"
   },
@@ -19,7 +19,7 @@
     "plane": "cessna 182",
     "type of plane" :"single engine plane",
     "img" : "https://aerocorner.com/wp-content/uploads/2009/01/Cessna-182-Turbo-Skylane-Julio-Ce%CC%81sar-Rodri%CC%81guez-1090x500.jpg", 
-    "price": "104,000",
+    "price": "104,000 thousand",
     "miles it can fly" : "1,050",
     "type" : "civilian"
   },
@@ -51,6 +51,188 @@
     "plane" : "airspeed ambassador",
     "type of plane" :"twin engine",
     "img" : "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ambassador.arp.750pix.jpg",
-    "price" : ""
+    "price" : "not for sale",
+    "miles it can fly" : "550",
+    "type" : "military"
+  },
+  {
+    "plane" : "Embraer Phenom 300",
+    "type of jet" : "light jet",
+    "type of plane" : "twin engine",
+    "img" : "https://i0.wp.com/privatejetcardcomparisons.com/wp-content/uploads/2019/09/Phenom-300.png?fit=1254%2C748&ssl=1",
+    "price" : "8.45 - 10.25 million",
+    "miles it can fly" : "1,811", 
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Cessna Citation CJ2",
+    "type of jet" : "light jet",
+    "type of plane" : "twin engine",
+    "img" : "https://www.evojets.com/wp-content/uploads/2018/03/citation-cj2-jet.jpg",
+    "price" : "2.0 - 3.40 million",
+    "miles it can fly" : "1,530", 
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Cessna Citation CJ4",
+    "type of jet" :"light jet",
+    "type of plane" : "twin engine",
+    "img" : "https://www.corporatejetinvestor.com/wp-content/uploads/2018/01/cj4-1.jpg",
+    "price" : "9.0 -9.41 million",
+    "miles it can fly" : "2,615",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "HondaJet",
+    "type of jet" :"light jet",
+    "type of plane" :"twin engine", 
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/2/23/HondaJet_Ryabtsev.jpg",
+    "price" : "4.5 million",
+    "miles it can fly" : "1,616",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Cessna Citation M2",
+    "type of jet" : "light jet", 
+    "type of plane" : "twin engine", 
+    "img" : "https://cessna.txtav.com/-/media/cessna/images/lp/gen2-announcement/m2genmasthead.ashx", 
+    "price" : "4.6 - 4.8 million",
+    "miles it can fly" : "1,784", 
+    "type" : "civilian"
+  }, 
+  {
+    "plane" : "Cessna Citation XLS", 
+    "type of jet" : "midsize jet", 
+    "type of plane" :"twin engine", 
+    "img": "https://www.jetcraft.com/wp-content/uploads/2019/12/CessnaCitationXLS-exterior.jpg",
+    "price" : "7.6 - 15.50 million",
+    "miles it can fly" : "2,138", 
+    "type" : "civilian"
+  },
+  {
+    "plane": "Hawker 850XP",
+    "type of jet" :"midsize jet",
+    "type of plane" :"twin engine",
+    "img" : "https://www.jetcraft.com/wp-content/uploads/2017/01/Hawker-850xp-Ext-JS-1200x600.jpg", 
+    "price" : "4.75 - 5 million", 
+    "miles it can fly" : "3,040",
+    "type" : "civilian"
+  },
+  {
+    "plane": "Embraer Legacy 500",
+    "type of jet" :"midsize jet",
+    "type of plane":"twin engine",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVhcXgaDB9fz7QNbDKvvaCEhmriI1MR6HjhA9qj5tizA&s",
+    "price": "20 million",
+    "miles it can fly": "3,598",
+    "type":"civilian"
+  },
+  {
+    "plane": "Bombardier Challenger 350",
+    "type of jet" :"midsize jet",
+    "type of plane":"twin engine",
+    "img" : "https://www.aircharteradvisors.com/wp-content/uploads/2019/03/Bombardier-Challenger-350-main-e1566395597374.jpeg",
+    "price" : "20-26.7 million",
+    "miles it can fly" : "3,700",
+    "type" :"civilian" 
+  },
+  {
+    "plane" : "Hawker 4000",
+    "type of jet" : "midsize jet",
+    "type of plane" :"twin engine", 
+    "img" : "https://aerocorner.com/wp-content/uploads/2021/06/Hawker-4000-Horizon-1090x500.jpg",
+    "price" : "4-6 million", 
+    "miles it can fly" : "3,775",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Gulfstream G280",
+    "type of jet" :"midsize jet",
+    "type of plane" :"twin engine",
+    "img" : "https://www.gulfstream.com/assets/images/aircraft/g280/d_g280_a_mkt_00721_web.jpg",
+    "price" : "24.5 million",
+    "miles it can fly" : "4,143", 
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Cessna Citation X",
+    "type of jet" :"midsize jet",
+    "type of plane" : "twin engine",
+    "img" : "https://www.evojets.com/wp-content/uploads/2018/03/citation-x-exterior.jpg", 
+    "price" : "5.8 million", 
+    "miles it can fly" : "3,701",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Cessna Citation Longitude",
+    "type of jet" :"midsize jet",
+    "type of plane" :"twin engine",
+    "img" : "https://aerospace.honeywell.com/content/dam/aerobt/en/images/learn/platforms/textron-aviation/horizontal/AeroBT-s1198337614_Citation-Longitude_editorial_2880x1440.jpg", 
+    "price" : "21-29.96 million",
+    "miles it can fly" : "4,028", 
+    "type" : "civilian"
+  },
+  {
+    "plane" : "cessna citation latitude",
+    "type of jet" :"midsize jet",
+    "type of plane" : "twin engine",
+    "img" : "https://www.evojets.com/wp-content/uploads/2018/04/citation-lattitude.jpg", 
+    "price" : "14.50-19.30 million",
+    "miles it can fly" : "3,280",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Dassault Falcon 2000 Series",
+    "type of jet" : "large jet",
+    "type of plane" : "twin engine",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/9/9e/20130519190713%212010-07-15_Falcon2000_private_N671WM_EDDF_01_%28cropped%29.jpg",
+    "price" : "4.9-9 million",
+    "miles it can fly" : "4,603",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Embraer Legacy 600",
+    "type of jet" : "large jet",
+    "type of plane" :"twin engine",
+    "img" : "",
+    "price" : "",
+    "miles it can fly" : "",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Bombardier Challenger 650",
+    "type of jet" :"large jet",
+    "type of plane" :"twin engine",
+    "img" : "https://www.ainonline.com/sites/ainonline.com/files/styles/ain30_fullwidth_large_2x/public/uploads/2022/02/original.jpg?itok=25BUwVfR&timestamp=1645696006",
+    "price" : "32 million",
+    "miles it can fly" : "4,643",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Bombardier Challenger 604",
+    "type of jet" :"large jet", 
+    "type of plane" :"twin engine", 
+    "img" : "https://www.jetcraft.com/wp-content/uploads/2014/12/Challenger604-JS.jpg",
+    "price" : "4-4.5 million",
+    "miles it can fly" : "4,623",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Gulfstream G450",
+    "type of jet" : "large jet",
+    "type of plane" : "twin engine",
+    "img" : "https://www.evojets.com/wp-content/uploads/2018/03/gulfstream-g-450-ext.jpg",
+    "price" : "38-43 million",
+    "miles it can fly" : "5,000",
+    "type" : "civilian"
+  },
+  {
+    "plane" : "Bombardier Challenger 850",
+    "type of jet" : "large jet",
+    "type of plane" : "twin engine",
+    "img" : "https://www.jetcraft.com/wp-content/uploads/2017/04/Challenger-850-Ext-JS-1200x600.jpg",
+    "price" : "",
+    "miles it can fly" : "", 
+    "type" : "civilian"
   }
 ]
